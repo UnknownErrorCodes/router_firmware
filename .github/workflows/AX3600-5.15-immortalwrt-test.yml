@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: AX3600-5.15-immortalwrt
+name: AX3600-5.15-immortalwrt-test
 
 on:
   repository_dispatch:
